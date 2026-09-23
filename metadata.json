@@ -1,0 +1,6 @@
+{
+  "name": "Kiko's Portfolio",
+  "description": "Kiko's digital portfolio featuring selected product, interaction, and visual design work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
